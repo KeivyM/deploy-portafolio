@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deploy-portafolio/static/css/main.d7d3fdc8.css",
-    "main.js": "/deploy-portafolio/static/js/main.1d3ec98e.js",
+    "main.css": "/deploy-portafolio/static/css/main.a68ebbb0.css",
+    "main.js": "/deploy-portafolio/static/js/main.c1cc3a9a.js",
     "static/media/img(1).jpg": "/deploy-portafolio/static/media/img(1).1eb33b6b67d547c40b18.jpg",
     "static/media/fondo.jpg": "/deploy-portafolio/static/media/fondo.9681c1ebddf2668d7a10.jpg",
     "static/media/img(23).jpg": "/deploy-portafolio/static/media/img(23).1648525578515fb28ba0.jpg",
@@ -26,6 +26,7 @@
     "static/media/img(16).jpg": "/deploy-portafolio/static/media/img(16).975e8518973bd09dce86.jpg",
     "static/media/img(17).jpg": "/deploy-portafolio/static/media/img(17).befc5b627e6d5118c1f5.jpg",
     "static/media/img(2).jpg": "/deploy-portafolio/static/media/img(2).094a36551f8e9833755b.jpg",
+    "static/media/user.jpg": "/deploy-portafolio/static/media/user.32e1c6e505b28e098b5e.jpg",
     "static/media/imagen4.jpg": "/deploy-portafolio/static/media/imagen4.2e22020884b931684b6f.jpg",
     "static/media/imagen12.jpg": "/deploy-portafolio/static/media/imagen12.933d52047d094e216176.jpg",
     "static/media/tiendaOnline.png": "/deploy-portafolio/static/media/tiendaOnline.b26f61e9bb7af3582654.png",
@@ -52,11 +53,11 @@
     "static/media/git.png": "/deploy-portafolio/static/media/git.db538452a3fb6ffbc088.png",
     "index.html": "/deploy-portafolio/index.html",
     "static/media/cart-shopping-solid.svg": "/deploy-portafolio/static/media/cart-shopping-solid.27ffcd49ca8afaba319d03e5758b8670.svg",
-    "main.d7d3fdc8.css.map": "/deploy-portafolio/static/css/main.d7d3fdc8.css.map",
-    "main.1d3ec98e.js.map": "/deploy-portafolio/static/js/main.1d3ec98e.js.map"
+    "main.a68ebbb0.css.map": "/deploy-portafolio/static/css/main.a68ebbb0.css.map",
+    "main.c1cc3a9a.js.map": "/deploy-portafolio/static/js/main.c1cc3a9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7d3fdc8.css",
-    "static/js/main.1d3ec98e.js"
+    "static/css/main.a68ebbb0.css",
+    "static/js/main.c1cc3a9a.js"
   ]
 }
